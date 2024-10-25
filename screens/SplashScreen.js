@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Onboarding from '../components/splashscreen/Onboarding';
 
-const SplashScreen = ({navigation}) => {
+const SplashScreen = ({ navigation }) => {
 
     return (
 
